@@ -1,5 +1,23 @@
 img{
     height: 100px;
     width: 150px;
-    background-color: rgb(255, 0, 242);
+    background-color: rgb(255, 222, 253);
+}
+
+body {
+    background-color: antiquewhite;
+    width: 60%;
+    height: 35%;
+}
+
+button {
+    background-color: rgb(46, 255, 109);
+    border-color: white;
+    font-size: medium;
+}
+
+.nav {
+    width: 72%;
+    display: flex;
+    align-items: center;
 }
